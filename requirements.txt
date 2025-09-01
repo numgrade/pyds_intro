@@ -1,5 +1,6 @@
-notebook==6.5.7
+notebook
 numpy
 pandas
 rise
 setuptools
+jupyterlab_rise
