@@ -8,3 +8,4 @@ jupyterlab-widgets
 matplotlib
 seaborn
 plotly
+kaleido
