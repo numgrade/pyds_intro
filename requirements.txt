@@ -4,3 +4,4 @@ pandas
 rise
 setuptools
 jupyterlab_rise
+jupyterlab-widgets
