@@ -5,3 +5,6 @@ rise
 setuptools
 jupyterlab_rise
 jupyterlab-widgets
+matplotlib
+seaborn
+plotly
